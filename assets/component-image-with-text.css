@@ -470,6 +470,8 @@
     margin-top: 20px;
   }
 }
-.buttonImage {
-  margin-left: 50%;
+
+.subTitleImage {
+  padding: 0px !important;
+  margin: 0px !important;
 }
